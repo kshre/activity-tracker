@@ -1,0 +1,1 @@
+activity-tracker can be used to record the things you do during the waking hours, this information can be later used to schedule the day better, detect and pinpoint procrastination sources and time spent on them and hopefully help you reduce time wasted in the day
